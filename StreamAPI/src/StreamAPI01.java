@@ -8,11 +8,11 @@ import java.util.List;
 public class StreamAPI01 {
 
     List<User> users = Arrays.asList(
-        new User (100,"chloe1","1234567"),
-        new User (100,"chloe2","123"),
-        new User (100,"chloe3","123456"),
-        new User (100,"chloe4","1234567890"),
-        new User (100,"chloe5","1")
+        new User (101,"chloe1","1234567"),
+        new User (102,"chloe2","123"),
+        new User (103,"chloe3","123456"),
+        new User (104,"chloe4","1234567890"),
+        new User (105,"chloe5","1")
     );
 
 @Test
